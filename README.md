@@ -92,7 +92,7 @@ Real-time chat app using Firebase Auth & Firestore.
 ### ✅ Todoey App
 Basic task management app with local storage using Hive.
 
-🔗 [View Repo](#)
+🔗 [View Repo](https://github.com/ahmedelhalabi4/todoey-app)
 
 ---
 
