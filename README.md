@@ -85,7 +85,7 @@ Pulls news from a public API and displays it with bookmarking and category filte
 ### 💬 Flash Chat
 Real-time chat app using Firebase Auth & Firestore.
 
-🔗 [View Repo](#)
+🔗 [View Repo](https://github.com/ahmedelhalabi4/flash-chat)
 
 ---
 
@@ -107,9 +107,9 @@ Basic task management app with local storage using Hive.
 
 Feel free to reach out:
 
-- 📧 Email: `ahmad.alhalabi.dev@gmail.com`  
+- 📧 Email: `ahmedelhalabi.m@gmail.com`  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-elhalabi-45b119285) 
-- 🧑‍💻 [GitHub](https://github.com/ahmadalhalabi4)
+- 🧑‍💻 [GitHub](https://github.com/ahmedelhalabi4)
 
 ---
 
