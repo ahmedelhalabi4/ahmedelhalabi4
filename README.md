@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ahmad Al-Halabi</h1>
+<h1 align="center">Hi there 👋, I'm Ahmad ElHalabi</h1>
 
 <p align="center">
   🇵🇸 Gaza, Palestine · 🎓 Computer Systems Engineering @ Al-Azhar University · 💻 Flutter Developer
