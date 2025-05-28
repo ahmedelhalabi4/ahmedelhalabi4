@@ -71,7 +71,7 @@ Another e-commerce UI/UX experiment with a focus on sleek animations and clean a
 ### 🌦️ Clima App
 A weather app built with OpenWeatherMap API, using GetX for state management and city search functionality.
 
-🔗 [View Repo](#)
+🔗 [View Repo](https://github.com/ahmedelhalabi4/clima-app)
 
 ---
 
