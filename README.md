@@ -39,11 +39,11 @@ I enjoy creating practical apps that solve real problems and bring smooth user e
 
 Here are some of the projects I'm most proud of:
 
-### 👕 Fashion E-commerce App
+### 👕 Fashion Store App
 A full-featured e-commerce app using Flutter & Firebase.  
 Includes product filtering, authentication, cart & payment simulation.
 
-🔗 [View Repo](#)
+🔗 [View Repo](https://github.com/ahmedelhalabi4/fashion_store)
 
 <h3 align="center">🖼️ App Screenshots</h3>
 
