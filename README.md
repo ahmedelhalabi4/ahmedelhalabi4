@@ -43,11 +43,21 @@ Here are some of the projects I'm most proud of:
 A full-featured e-commerce app using Flutter & Firebase.  
 Includes product filtering, authentication, cart & payment simulation.
 
-🔗 [View Repo](#)  
-![Image](https://github.com/user-attachments/assets/bae0473b-af4d-4362-ae79-4631f4db0bdd)
-![Image](https://github.com/user-attachments/assets/7dfdce52-9c83-4e94-bafa-2a72f68db33e)
-![Image](https://github.com/user-attachments/assets/13fdb2f2-b3c8-4b04-a0f8-ce465cbb9966)
-![Image](https://github.com/user-attachments/assets/66e1535b-e239-4e9f-ba54-b6239240a60f)
+🔗 [View Repo](#)
+
+<h3 align="center">🖼️ App Screenshots</h3>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bae0473b-af4d-4362-ae79-4631f4db0bdd" alt="Screenshot 1" width="300"/>
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/7dfdce52-9c83-4e94-bafa-2a72f68db33e" alt="Screenshot 2" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/13fdb2f2-b3c8-4b04-a0f8-ce465cbb9966" width="300"/>
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/66e1535b-e239-4e9f-ba54-b6239240a60f" alt="Screenshot 4" width="300"/>
+</p>
 
 ---
 
